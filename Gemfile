@@ -7,6 +7,7 @@ gem 'rspec'
 gem 'capybara'
 gem 'sinatra-contrib'
 gem 'webrick'
+gem 'pg'
 
 
 # gem "rails"
